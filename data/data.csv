@@ -1,0 +1,74 @@
+paper,local,autonomia,eletromec,movel,robo,potencial,link,titulo
+SBIE_01,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.sbie.2018.525,LERO - An Extensible and Adaptive Remote Lab for Educational Robotics
+SBIE_02,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.sbie.2018.815,Pensamento Computacional e atividades com robótica para a promoção da aprendizagem sobre o significado do resto da divisão euclidiana
+SBIE_04,SBIE,0,1,1,0,1,http://dx.doi.org/10.5753/cbie.sbie.2018.1806,Storytelling e Robótica Educacional: a construção de carros robôs com Arduino e materiais recicláveis
+SBIE_06,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.sbie.2017.354,Construção de ambiente de ensino de robótica remota: democratizando o desenvolvimento do pensamento computacional em alunos da educação básica
+SBIE_07,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.sbie.2017.695,Robótica experimental com uma arquitetura pedagógica para montagem de um sistema de irrigação inteligente
+SBIE_09,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.sbie.2016.1285,Se-Robô: Aplicativo para Robótica Educacional de Baixo Custo
+SBIE_10,SBIE,0,1,1,0,1,http://dx.doi.org/10.5753/cbie.sbie.2015.414,Especificação de uma Plataforma Aberta para o Ensino de Robótica a Distância
+SBIE_12,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.sbie.2014.30,A Study about the Transition of Simulated Algorithms to Real Robotics and its Application in Distance Learning
+SBIE_13,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.sbie.2014.722,LOGOBOT – Um Sistema Robótico Simulador da Linguagem Logo para Auxílio no Aprendizado de Programação
+SBIE_14,SBIE,1,1,1,1,1,https://www.br-ie.org/pub/index.php/sbie/article/view/1580,Ambiente de Robótica Pedagógica com Br_GOGO e Computadores de Baixo Custo: Uma Contribuição para o Ensino Médio
+WIE_01,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2019.9,Tecendo Espaços e Experiências no Campo da Robótica Educacional para Fomentar o Interesse de Meninas pela área de Computação
+WIE_04,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2019.266,Robótica na educação não é um bicho-papão: relato de experiência na rede pública municipal
+WIE_05,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2019.491,Aprendendo sobre o uso da Robótica para Introdução à Programação: um relato de experiência
+WIE_08,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2019.1129,Pensamento Computacional em Atividades de Robótica Pedagógica Livre no Ensino Médio
+WIE_10,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2019.1229,Robótica Educacional como Método Principal de Ensino em Práticas de Programação
+WIE_12,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2019.1289,A Robótica Educacional na Perspectiva das Metodologias Ativas
+WIE_14,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2019.1374,PENSAMENTO COMPUTACIONAL: Uma estratégia de ensino e promoção da cidadania na educação básica indígena utilizando robótica livre e lógica de programação Scratch
+WIE_16,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2019.608,Uma experiência mão na massa de construção de alarme móvel com Arduino Uno como mobilizadora de competências
+WIE_17,SBIE,0,1,1,0,1,http://dx.doi.org/10.5753/cbie.wie.2019.783,Estimulando o pensamento computacional em alunos do ensino médio com o uso do Scratch for Arduino
+WIE_19,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2019.335,Adaptation of assistive and robotic technology to teach music to deaf children
+WIE_23,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2018.295,ProgramChildren: Levando Tecnologia para Crianças de uma Escola Pública
+WIE_24,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2018.315,Robótica educacional uma ferramenta para ensino de lógica de programação no ensino fundamental
+WIE_26,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2018.705,EQ_Robô: Uma tecnologia digital para a demonstração prática de equações em aulas de Matemática
+WIE_31,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2017.538,Utilizando Scratch e Arduino como recursos para o ensino da Matemática
+WIE_33,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2017.687,O Ensino de Linguagem de Programação na Educação Básica Através da Robótica Educacional: Práticas e a Interdisciplinaridade.
+WIE_36,SBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2017.1139,"DuinoGraph: Arduino Software and Hardware Platform for Mathematics, Science and Arts Teaching"
+WIE_37,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2017.1149,Desenvolvimento de um Ambiente de Robótica Educacional para o Ensino de Programação com Hardware Livre
+WIE_39,SBIE,0,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2016.51,Uma Experiência do Uso Do Hardware Livre Arduino no Ensino De Programação De Computadores
+WIE_41,SBIE,0,0,0,0,0,http://dx.doi.org/10.5753/cbie.wie.2016.456,Do Paper Circuit à programação de Arduino com Scratch: uma sequência didática para aprendizagem do conteúdo de energia nos anos iniciais do ensino fundamental
+WIE_43,SBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wie.2016.786,Integrando as Plataformas App Inventor e Arduino na Construção de um Humanoide
+WIE_50,SBIE,1,0,0,0,0,https://www.br-ie.org/pub/index.php/wie/article/view/2612,A robótica livre no auxílio da aprendizagem do movimento retilíneo
+WIE_51,SBIE,1,1,1,1,1,https://www.br-ie.org/pub/index.php/wie/article/view/2607,Robótica Pedagógica: Uma Reflexão sobre a Apropriação de Professores da Escola Elza Maria Pellegrini de Aguiar
+WIE_53,SBIE,1,0,0,0,0,https://www.br-ie.org/pub/index.php/wie/article/view/2100/0,Formação de Professores em Robótica Educacional com Hardware Livre Arduino no Contexto Um Computador por Aluno
+W_CBIE_01,W_CBIE,0,0,0,0,0,http://dx.doi.org/10.5753/cbie.wcbie.2019.71,Licenciatura em Computação: Um Relato de Experiência Utilizando Robótica na Formação de Professores
+W_CBIE_02,W_CBIE,0,1,1,0,1,http://dx.doi.org/10.5753/cbie.wcbie.2019.188,O uso de competições de programação e robótica como estratégias para complementação e avaliação do aprendizado
+W_CBIE_03,W_CBIE,0,0,0,0,0,http://dx.doi.org/10.5753/cbie.wcbie.2019.238,O Uso da Robótica como Apoio à Alfabetização e à Introdução do Pensamento Computacional para Crianças
+W_CBIE_04,W_CBIE,0,1,1,0,1,http://dx.doi.org/10.5753/cbie.wcbie.2019.268,O Pensamento Computacional e a Robótica em Ações de Ressocialização de Jovens em Conflitos com a Lei
+W_CBIE_05,W_CBIE,0,1,1,0,1,http://dx.doi.org/10.5753/cbie.wcbie.2019.495,Incentivos lúdicos ao desenvolvimento do Pensamento Computacional no Ensino Médio: aprendendo a programar
+W_CBIE_06,W_CBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wcbie.2019.682,Aprendizagem com Robótica Educacional: uma Abordagem Baseada em Problemas
+W_CBIE_08,W_CBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wcbie.2019.1302,Madrugada: Um Ambiente de Robótica Educacional para o Ensino de Programação e Matemática com Hardware Livre
+W_CBIE_13,W_CBIE,0,1,1,0,1,http://dx.doi.org/10.5753/cbie.wcbie.2018.649,Jovens Programadores: ensino de programação e robótica para alunos do ensino básico de Monte Carmelo-MG
+W_CBIE_16,W_CBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wcbie.2017.222,Aplicativo Lúdico-Pedagógico para Ensino de Programação e Robótica Educacional
+W_CBIE_21,W_CBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wcbie.2016.399,Ensino de Programação em Robótica Móvel no Ensino Fundamental e Médio
+W_CBIE_23,W_CBIE,1,0,0,0,0,http://dx.doi.org/10.5753/cbie.wcbie.2016.1188,Aplicação de Robótica na Educação de Forma Gradual para o Estímulo do Pensamento Computacional
+W_CBIE_25,W_CBIE,1,1,1,1,1,http://dx.doi.org/10.5753/cbie.wcbie.2015.1236,Práticas de ensino de Programação de Computadores com Robótica Pedagógica e aplicação de Pensamento Computacional
+W_CBIE_31,W_CBIE,1,1,1,1,1,http://dx.doi.org/10.5753/CBIE.WCBIE.2013.306,Oficinas de Robótica para alunos do Ensino Médio: introduzindo a computação para futuros ingressantes
+WEI_02,WEI,1,1,1,1,1,https://doi.org/10.5753/wei.2019.6653,HortaDuino: integrando hardware e software em um recurso temático para exploração da Internet das Coisas na educação básica
+WEI_09,WEI,1,0,0,0,0,https://doi.org/10.5753/wei.2017.3547,Apoio ao ensino de análise e projeto de software usando a plataforma Arduino
+WEI_11,WEI,1,1,1,1,1,https://doi.org/10.5753/wei.2016.9652,DuinoBlocks for Kids: um ambiente de programação em blocos para o ensino de conceitos básicos de programação a crianças do Ensino Fundamental I por meio da Robótica Educacional
+WEI_13,WEI,1,1,1,1,1,https://doi.org/10.5753/wei.2016.9672,Oficina do Código: Um projeto para o ensino e integração de alunos do ensino fundamental e médio na área de tecnologia
+WEI_15,WEI,1,0,0,0,0,https://doi.org/10.5753/wei.2016.9676,Plataforma Arduino como apoio ao ensino de programação no curso de Técnico em Informática integrado
+WEI_18,WEI,1,0,0,0,0,https://doi.org/10.5753/wei.2015.10240,Ensino da Robótica Livre como Instrumento de Aprendizado Interdisciplinar na Rede Pública de Educação Profissional e Tecnológica
+WEI_19,WEI,1,1,1,1,1,https://doi.org/10.5753/wei.2015.10244,Robô para Reconstrução Tridimensional: Uma aplicação didático-pedagógica do protótipo no âmbito da Engenharia e Computação
+WRE_01,WRE,0,1,1,0,1,http://www.natalnet.br/wre2012/processos.html,Integração de Múltiplas Plataformas Robóticas no Ensino Fundamental e Médio
+WRE_02,WRE,1,1,1,1,1,http://www.natalnet.br/wre2012/processos.html,Robótica como Meio de Promoção da Interdisciplinaridade no Ensino Profissionalizante
+WRE_03,WRE,1,1,1,1,1,http://www.natalnet.br/wre2012/processos.html,Projeto de Integração Engenharia-Escola para Competições de Robótica
+WRE_05,WRE,1,1,1,1,1,http://www.natalnet.br/wre2012/processos.html,LUDEbot: Uma plataforma com servomotores e sensoriamento utilizando a placa Arduino e controle externo
+WRE_08,WRE,0,1,1,0,1,http://www.natalnet.br/wre2015/index.php?page=papers,Developing and modeling a hexapod robot with 12 degrees of freedom for academic use
+WRE_09,WRE,0,1,1,0,1,http://www.natalnet.br/wre2015/index.php?page=papers,LabsRia: Uma Proposta de Baixo Custo para Robotica Educacional
+WRE_10,WRE,0,1,1,0,1,http://www.natalnet.br/wre2015/index.php?page=papers,Construção de um Robô Móvel Teleoperado de Baixo Custo para Aplicação em Aulas Práticas de Robótica
+WRE_11,WRE,1,1,1,1,1,http://www.natalnet.br/wre2015/index.php?page=papers,"Construção de uma Plataforma Robótica de Exploração, Usando Conceitos de ABP na Disciplina de Instrumentação Eletrônica do IFPB "
+WRE_14,WRE,0,1,1,0,1,http://www.natalnet.br/wre2015/index.php?page=papers,Movimento de Manipulador Robótico Através do Uso de Luva com Acelerômetros e Arduino 
+WRE_15,WRE,1,1,1,1,1,http://www.natalnet.br/wre2015/index.php?page=papers,Popularização da Ciência e Tecnologia por meio da Robótica
+WRE_16,WRE,0,1,1,0,1,http://www.natalnet.br/wre2014/index.php?page=papers,Experiência de Robótica com Materiais Alternativos na Escola Estadual Professor Luís Soares
+WRE_19,WRE,1,1,1,1,1,http://www.natalnet.br/wre2014/index.php?page=papers,Ensino tutorial de robotica em Ciência da Computação e Engenharia Eletrica
+WRE_20,WRE,1,1,1,1,1,http://www.natalnet.br/wre2016/wre2016.pdf,A Robótica como Instrumento de Ensino nas Escolas Públicas
+WRE_22,WRE,0,0,0,0,0,http://www.natalnet.br/wre2016/wre2016.pdf,INCLUSÃO TECNOLÓGICA E DIFUSÃO DO CONHECIMENTO POR MEIO DA ROBÓTICA EDUCACIONAL APLICADA A REDE PÚBLICA DE ENSINO DE CARUARU E REGIÃO
+WRE_23,WRE,1,1,1,1,1,http://www.natalnet.br/wre2016/wre2016.pdf,A methodology for teaching advanced robotics from scratch for young people
+WRE_24,WRE,1,1,1,1,1,http://www.natalnet.br/wre2016/wre2016.pdf,LaBoot: Photovoltaic-powered Laboratory Robot for Multidisciplinary Educational Application
+WRE_25,WRE,1,1,1,1,1,http://www.natalnet.br/wre2016/wre2016.pdf,The use of a maze solver robot to support the teaching and learning process
+WRE_26,WRE,1,1,1,1,1,http://www.natalnet.br/wre2016/wre2016.pdf,Aplicação de um FIC de Robótica em Plataforma Open Source
+WRE_27,WRE,0,0,0,0,0,http://www.natalnet.br/wre2016/wre2016.pdf,Aplicação do Arduíno através de Robótica Educacional para apoio ao Ensino-Aprendizagem de Estudantes do Ensino Médio no Oeste do Pará
+WRE_28,WRE,1,1,1,1,1,http://www.natalnet.br/wre2016/wre2016.pdf,PetBot: um Kit para Robotica Educacional com Garrafa Pet e Materiais Reciclados
